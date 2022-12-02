@@ -16,3 +16,9 @@ Em um mundo individualista, regido por uma acentuada cultura de consumo, hábito
 Evitar o uso de sacolas plásticas, economizar água e energia elétrica, são algumas ações que exemplificam, de maneira simples, como a sustentabilidade pode ser incluída rotineiramente na vida da sociedade, desmistificando e tornando mais acessível a sua execução. Dessa forma, a educação ambiental torna-se uma ferramenta essencial para a construção de um mundo ecologicamente correto. Foi nesse cenário, que o projeto Tecnologia a serviço do meio ambiente buscou promover a propagação do pensamento sustentável ainda nos anos iniciais, através de informação, reutilização e coletividade. Já que, para que possa haver um desenvolvimento sustentável, primeiro é preciso existir um desenvolvimento humano, reaproximando o homem da natureza.
 
 <img style="width: 50%;" src="img/README/sustentabilidade.jpg">
+
+## Considerações finais
+
+O projeto obteve grande êxito na realização das atividades propostas, conseguimos auxiliar a escola na educação ambiental e ampliando o conhecimento das crianças sobre o assunto. E com isso, mudando o comportamento das mesmas, desenvolvendo a consciência ambiental e amor pela natureza. Ademais, foi notória a enorme alegria das crianças no desenvolvimento das oficinas e envolvimento nas questões que envolvem sustentabilidade.
+
+Fica aqui também o nosso agradecimento à equipe diretiva da escola Professora Maria Cleonice, a Diretora Maria Zilda Fernandes da Silva; Vice-diretora Erivânia Nunes dos Santos e a Coordenadora Eliana de Oliveira Lima, assim como aos professores, Maria José Ribeiro Silva e Celso de Farias Lima, e a todos os demais funcionários pelo acolhimento e ajuda na realização das atividades, sem eles o projeto não teria obtido tanto êxito.
