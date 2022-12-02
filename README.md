@@ -22,3 +22,4 @@ Evitar o uso de sacolas plásticas, economizar água e energia elétrica, são a
 O projeto obteve grande êxito na realização das atividades propostas, conseguimos auxiliar a escola na educação ambiental e ampliando o conhecimento das crianças sobre o assunto. E com isso, mudando o comportamento das mesmas, desenvolvendo a consciência ambiental e amor pela natureza. Ademais, foi notória a enorme alegria das crianças no desenvolvimento das oficinas e envolvimento nas questões que envolvem sustentabilidade.
 
 Fica aqui também o nosso agradecimento à equipe diretiva da escola Professora Maria Cleonice, a Diretora Maria Zilda Fernandes da Silva; Vice-diretora Erivânia Nunes dos Santos e a Coordenadora Eliana de Oliveira Lima, assim como aos professores, Maria José Ribeiro Silva e Celso de Farias Lima, e a todos os demais funcionários pelo acolhimento e ajuda na realização das atividades, sem eles o projeto não teria obtido tanto êxito.
+
