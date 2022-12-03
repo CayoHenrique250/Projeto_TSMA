@@ -101,7 +101,7 @@ hr {
 
   .img_text{
     margin-top: 6%;
-    width: 45%;
+    width: 55%;
   }
 
   .citacao {
@@ -113,6 +113,7 @@ hr {
 
   .autor {
     font-size: 150%;
+    padding-left: 77%;
   }
 
 }

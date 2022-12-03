@@ -122,9 +122,14 @@
       padding: 4px;
       font-size: 120%;
     }
+
+    .descr {
+      padding: 4px;
+      font-size: 120%;
+    }
   
     .desc23 {
-      margin-bottom: 1%;
+      margin-bottom: 5%;
     } 
   
     .desc2 {
