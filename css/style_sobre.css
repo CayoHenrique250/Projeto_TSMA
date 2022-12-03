@@ -677,7 +677,7 @@ hr {
 @media (max-width: 450px) {
 
   .titulo_menu2 {
-  top: 15%;
+  top: 13%;
   font-size: 105%;
   }
 
@@ -699,67 +699,115 @@ hr {
 
   .flex {
     margin-left: 5%;
-    margin-right: 6%;
+    margin-right: 0%;
     margin-top: 5%;
     margin-bottom: 34%;
   }
   
   .santos{
-    margin: 3px;
-    border: solid 1px #318a4f;
+    margin: 1.5%;
+    max-width: 10%;
+    max-height: 10%;
   }
   
   .santo_text {
-    font-size: 55%;
+    font-size: 49%;
   }
   
   .santo_textt {
-    font-size: 50%;
+    font-size: 40%;
+  }
+
+  #a11{
+    transform: translate(-50%, -50%);
+    margin-top: 14%;
+    left: 7.5%;
+  }
+  
+  #a1{
+    transform: translate(-50%, -50%);
+    margin-top: 15.3%;
+    left: 7.5%;
+  }
+  
+  #a22{
+    margin-top: 13.2%;
+    left: 16.2%;
+  }
+  
+  #a2{
+    margin-top: 14%;
+    left: 16.5%;
+  }
+  
+  #a33{
+    margin-top: 13.5%;
+    left: 29.8%;
+  }
+  
+  #a3{
+    margin-top: 14%;
+    left: 30.5%;
+  }
+  
+  #a44{
+    margin-top: 13.6%;
+    left: 41.5%;
+  }
+  
+  #a4{
+    margin-top: 17%;
+    left: 45.2%;
+  }
+  
+  #a55{
+    margin-top: 13.6%;
+    left: 56.7%;
+  }
+  
+  #a5{
+    margin-top: 14%;
+    left: 55.5%;
+  }
+  
+  #a66{
+    margin-top: 13.5%;
+    left: 70.5%;
+  }
+  
+  #a6{
+    margin-top: 14%;
+    left: 70.9%;
+  }
+  
+  #a77{
+    margin-top: 13.5%;
+    left: 84.8%;
+  }
+  
+  #a7{
+    margin-top: 14%;
+    left: 82.8%;
   }
   
 }
 
 @media (max-width: 400px) {
 
-  .titulo_menu2 {
-  top: 15%;
-  font-size: 105%;
-  }
-
   .texto {
     font-size: 70%;
   }
   
   .titulo {
-    font-size: 90%;
+    font-size: 95%;
   }
 
-  hr{
-    width: 65%;
-  }
-
-  .img_text{
-    width: 70%;
-  }
-
-  .flex {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 5%;
-    margin-bottom: 34%;
-  }
-  
-  .santos{
-    margin: 2px;
-    border: solid 1px #318a4f;
-  }
-  
   .santo_text {
-    font-size: 50%;
+    font-size: 45%;
   }
   
   .santo_textt {
-    font-size: 45%;
+    font-size: 35%;
   }
   
 }
@@ -783,29 +831,15 @@ hr {
     width: 75%;
   }
 
-  .img_text{
-    width: 70%;
-  }
-
-  .flex {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 5%;
-    margin-bottom: 35%;
-  }
-  
-  .santos{
-    margin: 2px;
-    border: solid 1px #318a4f;
-  }
-  
   .santo_text {
-    font-size: 35%;
+    font-size: 38%;
   }
   
   .santo_textt {
     font-size: 10%;
   }
+
+
   
 }
 
@@ -826,22 +860,6 @@ hr {
 
   hr{
     width: 75%;
-  }
-
-  .img_text{
-    width: 70%;
-  }
-
-  .flex {
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 5%;
-    margin-bottom: 35%;
-  }
-  
-  .santos{
-    margin: 2px;
-    border: solid 1px #318a4f;
   }
   
   .santo_text {

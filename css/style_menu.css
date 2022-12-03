@@ -118,10 +118,7 @@ hr {
 }
 
 @media (max-width: 900px) {
-  body{
-    background-color: blueviolet;
-  }
-
+ 
   .texto {
     font-size: 115%;
   }
@@ -147,17 +144,10 @@ hr {
 }
 
 @media (max-width: 800px) {
-  body{
-    background-color: blue;
-  }
-
+  
 }
 
 @media (max-width: 700px) {
-  body{
-    background-color: brown;
-  }
-  
 
 }
 
@@ -172,19 +162,88 @@ hr {
 
 @media (max-width: 450px) {
 
+  .citacao {
+    font-size: 95%;
+  }
+  
+  .autor {
+    font-size: 80%;
+    padding-left: 66%;
+  }
+  
+  hr {
+    width: 50%;
+  }
+  
+  .texto {
+    text-indent: 6%;
+    padding-right: 10%;
+    padding-left: 10%;
+    font-size: 85%;
+  }
+  
+  .titulo {
+    font-size: 100%;
+  }
+  
+  .img_text{
+    width: 70%;
+  }
+  
+  .img_galery{
+    margin-top: -2%;
+    margin-bottom: -2%;
+  }
+
+
 
 }
 
 @media (max-width: 400px) {
 
+  .texto {
+    text-indent: 6%;
+    padding-right: 10%;
+    padding-left: 10%;
+    font-size: 70%;
+  }
+  
+  .titulo {
+    font-size: 90%;
+  }
 
 }
 
 @media (max-width: 350px) {
 
+  .texto {
+    font-size: 65%;
+  }
+
+  .titulo {
+    font-size: 90%;
+  }
+
+  .citacao {
+    font-size: 80%;
+  }
+  
+  .autor {
+    font-size: 70%;
+    padding-left: 62%;
+  }
   
 }
 
 @media (max-width: 300px) {
+
+  .citacao {
+    font-size: 70%;
+  }
+  
+  .autor {
+    font-size: 60%;
+    padding-left: 63%;
+  }
 
 }

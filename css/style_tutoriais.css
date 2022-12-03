@@ -63,7 +63,7 @@ hr{
 
 .texto ul{
   text-indent: 5%;
-  margin-left: 10%;
+  margin-left: 0%;
   font-size: 100%;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: justify;
@@ -72,7 +72,8 @@ hr{
 
 .texto ol {
   text-indent: 5%;
-  margin-left: 10%;
+  margin-left: 0%;
+  margin-right: 5%;
   font-size: 100%;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: justify;
