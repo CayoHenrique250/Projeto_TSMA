@@ -825,10 +825,6 @@
   }
   
   @media (max-width: 300px) {
- 
-    body{
-      background-color: aquamarine;
-    }
 
     .gallery {
       margin: 1px;
