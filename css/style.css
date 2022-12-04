@@ -3,75 +3,67 @@ body {
 }
 
 .ifal{
-  width: 5%;
+  width: 12%;
   position: absolute;
   display: flex;
-  margin-top: -42%;
-  margin-left: 1%;
-  filter: brightness(200);
+  margin-top: -44%;
+  margin-left: -1%;
 }
 
 .propex{
-  width: 8%;
+  width: 12%;
   position: absolute;
   display: flex;
   margin-left: 88%;
-  margin-top: -42%;
-  filter: brightness(200);
+  margin-top: -44%;
 }
 
 .ifal2{
-  width: 5%;
+  width: 12%;
   position: absolute;
   display: flex;
-  margin-top: -52%;
-  margin-left: 1%;
-  filter: brightness(200);
+  margin-top: -53.6%;
+  margin-left: -1%;
 }
 
 .propex2{
-  width: 8%;
+  width: 12%;
   position: absolute;
   display: flex;
   margin-left: 88%;
-  margin-top: -52%;
-  filter: brightness(200);
+  margin-top: -54%;
 }
 
 .ifal3{
-  width: 5%;
+  width: 12%;
   position: absolute;
   display: flex;
-  margin-top: -47%;
-  margin-left: 1%;
-  filter: brightness(200);
+  margin-top: -49%;
+  margin-left: -1%;
 }
 
 .propex3{
-  width: 8%;
+  width: 12%;
   position: absolute;
   display: flex;
   margin-left: 88%;
-  margin-top: -47%;
-  filter: brightness(200);
+  margin-top: -49%;
 }
 
 .ifal4{
-  width: 5%;
+  width: 12%;
   position: absolute;
   display: flex;
-  margin-top: -49%;
-  margin-left: 1%;
-  filter: brightness(200);
+  margin-top: -51.5%;
+  margin-left: -1%;
 }
 
 .propex4{
-  width: 8%;
+  width: 12%;
   position: absolute;
   display: flex;
   margin-left: 88%;
-  margin-top: -49%;
-  filter: brightness(200);
+  margin-top: -51.5%;
 }
 
 .back_index {
@@ -467,39 +459,45 @@ footer{
 @media (max-width: 450px) {
 
   .ifal{
-    width: 6%;
-    margin-left: 3%;
+    width: 9%;
+    margin-left: 0;
   }
   
   .propex{
+    margin-left: 91%;
     width: 9%;
   }
 
   .ifal2{
-    width: 6%;
-    margin-left: 3%;
+    width: 9%;
+    margin-left: 0;
   }
   
   .propex2{
     width: 9%;
+    margin-left: 91%;
   }
 
   .ifal3{
-    width: 6%;
-    margin-left: 3%;
+    width: 9%;
+    margin-left: 0;
   }
   
   .propex3{
     width: 9%;
+    margin-left: 91%;
   }
 
   .ifal4{
-    width: 6%;
-    margin-left: 3%;
+    width: 9%;
+    margin-top: -52%;
+    margin-left: 0;
   }
   
   .propex4{
     width: 9%;
+    margin-top: -52.5%;
+    margin-left: 91%;
   }
   
   .back_index {

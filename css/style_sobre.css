@@ -40,14 +40,6 @@
   background-color: rgb(4, 39, 16);
 }
 
-.navegacao p{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 100%;
-  color: aliceblue;
-  margin-right: 3%;
-  margin-bottom: -1%;
-}
-
 hr {
   text-align: center;
   width: 50%;
@@ -721,12 +713,6 @@ hr {
 
   .navegacao li a {
     font-size: 55%;
-  }
-  
-  .navegacao p{
-    font-size: 84%;
-    margin-right: 3%;
-    margin-bottom: -1%;
   }
 
   .titulo_menu2 {
