@@ -2,16 +2,91 @@ body {
   margin: 0;
 }
 
+.ifal{
+  width: 5%;
+  position: absolute;
+  display: flex;
+  margin-top: -42%;
+  margin-left: 1%;
+  filter: brightness(200);
+}
+
+.propex{
+  width: 8%;
+  position: absolute;
+  display: flex;
+  margin-left: 88%;
+  margin-top: -42%;
+  filter: brightness(200);
+}
+
+.ifal2{
+  width: 5%;
+  position: absolute;
+  display: flex;
+  margin-top: -52%;
+  margin-left: 1%;
+  filter: brightness(200);
+}
+
+.propex2{
+  width: 8%;
+  position: absolute;
+  display: flex;
+  margin-left: 88%;
+  margin-top: -52%;
+  filter: brightness(200);
+}
+
+.ifal3{
+  width: 5%;
+  position: absolute;
+  display: flex;
+  margin-top: -47%;
+  margin-left: 1%;
+  filter: brightness(200);
+}
+
+.propex3{
+  width: 8%;
+  position: absolute;
+  display: flex;
+  margin-left: 88%;
+  margin-top: -47%;
+  filter: brightness(200);
+}
+
+.ifal4{
+  width: 5%;
+  position: absolute;
+  display: flex;
+  margin-top: -49%;
+  margin-left: 1%;
+  filter: brightness(200);
+}
+
+.propex4{
+  width: 8%;
+  position: absolute;
+  display: flex;
+  margin-left: 88%;
+  margin-top: -49%;
+  filter: brightness(200);
+}
+
 .back_index {
   width: 100%;
 }
 
 .menu {
+  
   padding-top: 2%;
   font-size: 150%;
   font-family: arial;
   position: absolute;
   right: 3%;
+  margin-right: 28%;
+
 }
 
 .menu a {
@@ -391,6 +466,54 @@ footer{
 
 @media (max-width: 450px) {
 
+  .ifal{
+    width: 6%;
+    margin-left: 3%;
+  }
+  
+  .propex{
+    width: 9%;
+  }
+
+  .ifal2{
+    width: 6%;
+    margin-left: 3%;
+  }
+  
+  .propex2{
+    width: 9%;
+  }
+
+  .ifal3{
+    width: 6%;
+    margin-left: 3%;
+  }
+  
+  .propex3{
+    width: 9%;
+  }
+
+  .ifal4{
+    width: 6%;
+    margin-left: 3%;
+  }
+  
+  .propex4{
+    width: 9%;
+  }
+  
+  .back_index {
+    width: 100%;
+  }
+  
+  .menu {
+    margin-right: 20%;
+  }
+  
+  .menu a {
+    margin: 4px;
+  }
+
   .titulo_menu {
     top: 10%;
     font-size: 92%;
@@ -430,6 +553,8 @@ footer{
 
 @media (max-width: 400px) {
 
+
+
   .titulo_menu {
     top: 11%;
     font-size: 85%;
@@ -464,6 +589,14 @@ footer{
 }
 
 @media (max-width: 350px) {
+
+  .menu {
+    margin-right: 17%;
+  }
+  
+  .menu a {
+    margin: 3px;
+  }
 
   .titulo_menu {
     top: 10%;

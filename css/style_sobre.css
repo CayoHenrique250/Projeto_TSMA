@@ -9,6 +9,45 @@
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+.navegacao ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(35, 141, 43);
+  margin-top: 5%;
+}
+
+.navegacao li {
+  float: left;
+  border-right:1px solid #bbb;
+}
+
+.navegacao li:last-child {
+  border-right: none;
+}
+
+.navegacao li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navegacao li a:hover:not(.active) {
+  background-color: rgb(4, 39, 16);
+}
+
+.navegacao p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 100%;
+  color: aliceblue;
+  margin-right: 3%;
+  margin-bottom: -1%;
+}
+
 hr {
   text-align: center;
   width: 50%;
@@ -676,6 +715,20 @@ hr {
 
 @media (max-width: 450px) {
 
+  .navegacao li {
+    border-bottom:1px solid #bbb;
+  }
+
+  .navegacao li a {
+    font-size: 57%;
+  }
+  
+  .navegacao p{
+    font-size: 85%;
+    margin-right: 3%;
+    margin-bottom: -1%;
+  }
+
   .titulo_menu2 {
   top: 13%;
   font-size: 105%;
@@ -808,6 +861,15 @@ hr {
   
   .santo_textt {
     font-size: 35%;
+  }
+
+  .navegacao li a {
+    font-size: 52%;
+  }
+  
+  .navegacao p{
+    font-size: 80%;
+    margin-right: 5%;
   }
   
 }
