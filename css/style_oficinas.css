@@ -169,6 +169,10 @@
   
   @media (max-width: 1300px) {
   
+    body{
+    background-color: aquamarine;
+    }
+
     .titulo_menu2 {
     top: 44%;
     font-size: 260%;
