@@ -19,7 +19,7 @@ body {
 }
 
 .ifal2{
-  width: 12%;
+  width: 10%;
   position: absolute;
   display: flex;
   margin-top: -53.6%;
@@ -35,7 +35,7 @@ body {
 }
 
 .ifal3{
-  width: 12%;
+  width: 10%;
   position: absolute;
   display: flex;
   margin-top: -49%;
@@ -51,7 +51,7 @@ body {
 }
 
 .ifal4{
-  width: 12%;
+  width: 10%;
   position: absolute;
   display: flex;
   margin-top: -51.5%;
@@ -502,7 +502,7 @@ footer{
 
   .titulo_menu {
     top: 15%;
-    font-size: 120%;
+    font-size: 110%;
   }
 
   .menu {
