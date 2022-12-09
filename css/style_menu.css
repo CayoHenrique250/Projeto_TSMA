@@ -149,6 +149,22 @@ hr {
 
 }
 
+@media (max-width: 1200px) {
+
+  .citacao {
+    margin-right: 6%;
+    margin-left: 6%;
+    margin-top: 1%;
+    font-size: 170%;
+  }
+
+  .autor {
+    font-size: 120%;
+    padding-left: 77%;
+  }
+
+}
+
 @media (max-width: 900px) {
  
   .texto {
@@ -167,29 +183,93 @@ hr {
     margin-right: 6%;
     margin-left: 6%;
     margin-top: 1%;
-    font-size: 175%;
+    font-size: 150%;
   }
   
   .autor {
-    font-size: 130%;
+    font-size: 118%;
+    margin-left: -3%;
   }
 }
 
 @media (max-width: 800px) {
   
+  .citacao {
+    margin-right: 6%;
+    margin-left: 6%;
+    margin-top: 1%;
+    font-size: 135%;
+  }
+  
+  .autor {
+    font-size: 115%;
+    margin-left: -3%;
+  }
 }
 
 @media (max-width: 700px) {
+  
+  .citacao {
+    margin-right: 6%;
+    margin-left: 6%;
+    margin-top: 1%;
+    font-size: 135%;
+  }
+  
+  .autor {
+    font-size: 115%;
+    margin-left: -9%;
+  }
 
+  .texto {
+    font-size: 110%;
+  }
+  
+  .titulo {
+    font-size: 130%;
+  }
 }
 
 @media (max-width: 600px) {
 
+  .citacao {
+    margin-right: 6%;
+    margin-left: 6%;
+    margin-top: 1%;
+    font-size: 130%;
+  }
+  
+  .autor {
+    font-size: 105%;
+    margin-left: -12%;
+  }
+
+  .texto {
+    font-size: 100%;
+  }
+  
+  .titulo {
+    font-size: 125%;
+  }
+
+  .navegacao li a {
+    font-size: 80%;
+  }
 
 }
 
 @media (max-width: 500px) {
-
+  .citacao {
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 1%;
+    font-size: 120%;
+  }
+  
+  .autor {
+    font-size: 100%;
+    margin-left: -10%;
+  }
 }
 
 @media (max-width: 450px) {
@@ -255,12 +335,7 @@ hr {
   }
 
   .navegacao li a {
-    font-size: 70%;
-  }
-  
-  .navegacao p{
-    font-size: 80%;
-    margin-right: 5%;
+    font-size: 65%;
   }
 
 }
