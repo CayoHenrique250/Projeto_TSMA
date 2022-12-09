@@ -683,6 +683,11 @@
     margin-right: 7%;
   }
 
+  .PDF{
+    width: 400px;
+    height: 230px;
+  }
+
 }
 
 @media (max-width: 500px) {
@@ -740,6 +745,11 @@
 
   .next {
     margin-right: 7%;
+  }
+
+  .PDF{
+    width: 400px;
+    height: 230px;
   }
 
 }
