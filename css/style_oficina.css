@@ -30,6 +30,11 @@
   margin-bottom: 6%;
 }
 
+.img_tam{
+  width: 75%;
+  margin-left: -1%;
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 100%;
@@ -64,7 +69,7 @@
   top: 50%;
   width: auto;
   margin-top: -22px;
-  margin-right: 40%;
+  margin-right: 27%;
   padding: 16px;
   color: white;
   font-weight: bold;
